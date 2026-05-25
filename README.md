@@ -23,7 +23,23 @@ Este projeto simula um ambiente corporativo real onde colaboradores podem solici
 ---
 
 ## 🔄 Fluxo do Processo
----
+- Usuário submete solicitação
+↓
+Verificação: possui gestor?
+↓
+SIM → Aprovação do Gestor
+↓
+Aprovado → Aprovação da TI
+↓
+Aprovado → Task criada → TI executa
+↓
+Reprovado → Stage Cancelado + Notificação
+↓
+NÃO → Aprovação direta da TI
+↓
+Aprovado → Task criada → TI executa
+↓
+Reprovado → Stage Cancelado + Notificação -
 
 ## 📸 Screenshots
 
