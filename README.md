@@ -28,25 +28,25 @@ Este projeto simula um ambiente corporativo real onde colaboradores podem solici
 ## 📸 Screenshots
 
 ### Formulário de Solicitação
-![Formulário](screenshots/01-formulario.png)
+![Formulário](screenshots/2-Service.Catalog.jpeg)
 
 ### Catalog Item — Configuração
-![Catalog Item](screenshots/02-catalog-item.png)
+![Catalog Item](screenshots/1-Catalog.Item.jpeg)
 
 ### Flow Designer — Visão Geral
-![Flow Designer](screenshots/03-flow-designer.png)
+![Flow Designer](screenshots/3-Flow-Designer.jpeg)
 
 ### Catalog Task criada e vinculada
-![Catalog Task](screenshots/04-catalog-task.png)
+![Catalog Task](screenshots/4-Record.Task.jpeg)
 
 ### Aprovadores — Fluxo Multinível
-![Approvers](screenshots/05-approvers.png)
+![Approvers](screenshots/5-Record.Approvers.jpeg)
 
 ### SLA Definitions
-![SLA](screenshots/06-sla-definitions.png)
+![SLA](screenshots/6-SLA.jpeg)
 
 ### Access Control List
-![ACL](screenshots/07-acl.png)
+![ACL](screenshots/7-ACL.jpeg)
 
 ---
 
